@@ -66,54 +66,54 @@ Commercial APM and distributed tracing platforms offer managed scalability, high
 
 Open-source distributed tracing tools offer full data sovereignty, zero per-host trace licensing fees, and vendor independence.
 
-*Note: Projects are sorted by GitHub Star Count in descending order. Click any star badge to inspect the repository's stargazers.*
+*Note: Projects are sorted by GitHub Stars_Count in descending order. Click any Stars_Badge to inspect the repository's stargazers.*
 
 1. **[SigNoz](https://github.com/SigNoz/signoz)**  
-   [![GitHub stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social)](https://github.com/SigNoz/signoz/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social)](https://github.com/SigNoz/signoz/stargazers)  
    ⚡ Open-source observability platform built on ClickHouse. Native OpenTelemetry support for traces, metrics, and logs with unified filtering and dashboarding.
 
 2. **[Apache SkyWalking](https://github.com/apache/skywalking)**  
-   [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking?style=social)](https://github.com/apache/skywalking/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/apache/skywalking?style=social)](https://github.com/apache/skywalking/stargazers)  
    ⚡ CNCF APM system designed for microservices, cloud-native, and container-based architectures. Features polyglot auto-instrumentation agents and service mesh observability.
 
 3. **[Jaeger](https://github.com/jaegertracing/jaeger)**  
-   [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social)](https://github.com/jaegertracing/jaeger/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social)](https://github.com/jaegertracing/jaeger/stargazers)  
    ⚡ CNCF graduated distributed tracing platform originally created by Uber. Provides end-to-end request tracking, contextual propagation, and adaptive sampling.
 
 4. **[Zipkin](https://github.com/openzipkin/zipkin)**  
-   [![GitHub stars](https://img.shields.io/github/stars/openzipkin/zipkin?style=social)](https://github.com/openzipkin/zipkin/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/openzipkin/zipkin?style=social)](https://github.com/openzipkin/zipkin/stargazers)  
    ⚡ Pioneer distributed tracing system originally developed by Twitter. Features a lightweight architecture, broad library ecosystem, and battle-tested production history.
 
 5. **[Pinpoint](https://github.com/pinpoint-apm/pinpoint)**  
-   [![GitHub stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint?style=social)](https://github.com/pinpoint-apm/pinpoint/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint?style=social)](https://github.com/pinpoint-apm/pinpoint/stargazers)  
    ⚡ APM tool designed for large-scale distributed Java, PHP, and Python systems. Uses bytecode instrumentation to trace transaction flow with minimal overhead.
 
 6. **[Grafana Pyroscope](https://github.com/grafana/pyroscope)**  
-   [![GitHub stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social)](https://github.com/grafana/pyroscope/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social)](https://github.com/grafana/pyroscope/stargazers)  
    ⚡ Continuous profiling platform integrated with distributed tracing to analyze CPU, memory, and line-of-code execution bottlenecks alongside request trace spans.
 
 7. **[HyperDX](https://github.com/hyperdxio/hyperdx)**  
-   [![GitHub stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social)](https://github.com/hyperdxio/hyperdx/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social)](https://github.com/hyperdxio/hyperdx/stargazers)  
    ⚡ Developer-friendly open-source observability platform integrating distributed traces, log streams, metrics, and session replays in a unified UI.
 
 8. **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)**  
-   [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
    ⚡ CNCF standard proxy component that receives, processes, filters, batch-samples, and exports telemetry data across vendor-neutral backends.
 
 9. **[OpenLLMetry](https://github.com/traceloop/openllmetry)**  
-   [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)](https://github.com/traceloop/openllmetry/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)](https://github.com/traceloop/openllmetry/stargazers)  
    ⚡ Open-source observability framework for LLM applications and AI agents, building OpenTelemetry trace extensions for OpenAI, Anthropic, LangChain, and vector stores.
 
 10. **[Pixie](https://github.com/pixie-io/pixie)**  
-    [![GitHub stars](https://img.shields.io/github/stars/pixie-io/pixie?style=social)](https://github.com/pixie-io/pixie/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/pixie-io/pixie?style=social)](https://github.com/pixie-io/pixie/stargazers)  
     ⚡ eBPF-powered code-free observability for Kubernetes. Automatically captures network requests, service maps, and distributed traces without manual SDK integration.
 
 11. **[Grafana Tempo](https://github.com/grafana/tempo)**  
-    [![GitHub stars](https://img.shields.io/github/stars/grafana/tempo?style=social)](https://github.com/grafana/tempo/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/grafana/tempo?style=social)](https://github.com/grafana/tempo/stargazers)  
     ⚡ High-scale, cost-effective distributed tracing backend designed for object storage (S3, GCS) and seamless integration with Grafana visualization.
 
 12. **[Uptrace](https://github.com/uptrace/uptrace)**  
-    [![GitHub stars](https://img.shields.io/github/stars/uptrace/uptrace?style=social)](https://github.com/uptrace/uptrace/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/uptrace/uptrace?style=social)](https://github.com/uptrace/uptrace/stargazers)  
     ⚡ Open-source APM tool powered by OpenTelemetry and ClickHouse. Detects bottlenecks, highlights error traces, and sends latency alerts.
 
 ---
@@ -131,7 +131,7 @@ Open-source distributed tracing tools offer full data sovereignty, zero per-host
 
 1. 🍴 Fork this repository.
 2. 📝 Add your SaaS product or Open-Source project to `README.md` following the existing format and sorting order.
-3. ⭐ Ensure open-source projects include star count badges linked to stargazers and SaaS entries include explicit pricing and free tier terms.
+3. ⭐ Ensure open-source projects include Stars_Count badges linked to stargazers and SaaS entries include explicit pricing and free tier terms.
 4. 🚀 Submit a Pull Request with a clear description of the project.
 
 ---
@@ -164,3 +164,12 @@ Thank you for visiting and supporting the **Awesome Distributed Tracing** reposi
 <p align="center">
   <i>Maintained with ❤️ for SREs, Platform Engineers, and Cloud Architects.</i>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Distributed-Tracing&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Distributed-Tracing_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Distributed-Tracing_growth.svg">
+  </picture>
+</a>
